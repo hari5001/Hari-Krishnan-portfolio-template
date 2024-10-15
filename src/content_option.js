@@ -1,4 +1,4 @@
-import hari from './hari.png'
+import hari from './hr.jpg'
 
 const logotext = "Hari S";
 const meta = {
