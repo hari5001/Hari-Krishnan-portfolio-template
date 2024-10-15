@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Hari-Krishnan-portfolio-template/static/css/main.6b9b6197.css",
+    "main.css": "/Hari-Krishnan-portfolio-template/static/css/main.ac634df6.css",
     "main.js": "/Hari-Krishnan-portfolio-template/static/js/main.110e2ce9.js",
     "static/media/hr.jpg": "/Hari-Krishnan-portfolio-template/static/media/hr.27a7763decce25608836.jpg",
     "index.html": "/Hari-Krishnan-portfolio-template/index.html"
   },
   "entrypoints": [
-    "static/css/main.6b9b6197.css",
+    "static/css/main.ac634df6.css",
     "static/js/main.110e2ce9.js"
   ]
 }
