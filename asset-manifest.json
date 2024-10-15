@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-template/static/css/main.6b9b6197.css",
-    "main.js": "/portfolio-template/static/js/main.d7e9e342.js",
-    "static/media/hari.png": "/portfolio-template/static/media/hari.6d5c0db6f305c7363b7f.png",
-    "index.html": "/portfolio-template/index.html"
+    "main.css": "/Hari-Krishnan-portfolio-template/static/css/main.6b9b6197.css",
+    "main.js": "/Hari-Krishnan-portfolio-template/static/js/main.34641a38.js",
+    "static/media/hari.png": "/Hari-Krishnan-portfolio-template/static/media/hari.6d5c0db6f305c7363b7f.png",
+    "index.html": "/Hari-Krishnan-portfolio-template/index.html"
   },
   "entrypoints": [
     "static/css/main.6b9b6197.css",
-    "static/js/main.d7e9e342.js"
+    "static/js/main.34641a38.js"
   ]
 }
