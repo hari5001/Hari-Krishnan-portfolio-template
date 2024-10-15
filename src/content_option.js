@@ -1,15 +1,17 @@
-const logotext = "{Initials Here}";
+import hari from './hari.png'
+
+const logotext = "Hari S";
 const meta = {
     title: "Hari Krishnan",
     description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm Hari Krishnan",
+    title: "Hi, I'm Hari S",
     animated: {
-        first: "Technologist",
+        first: "Ethical Hacker",
         second: "Visionary",
-        third: "Ethical Hacker",
+        third: "Joker",
         fourth: "Programmer",
         fifth: "Malware Developer",
         sixth: "Analyst",
@@ -18,7 +20,7 @@ const introdata = {
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
     // your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
     // your_img_url: "https://img.freepik.com/premium-photo/elevate-your-brand-with-friendly-avatar-that-reflects-professionalism-ideal-sales-managers_1283595-18531.jpg", // MALE
-    your_img_url: "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100226.jpg", // FEMALE
+    your_img_url: hari // FEMALE
 };
 
 const dataabout = {
@@ -26,17 +28,17 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
+        jobtitle: "Senior Software Developer",
         where: "Google",
         date: "2023",
     },
     {
-        jobtitle: "Example 2",
+        jobtitle: "App Developer",
         where: "Micosoft",
         date: "2022",
     },
     {
-        jobtitle: "Example 3",
+        jobtitle: "AR Engineer",
         where: "Meta",
         date: "2021",
     },
@@ -55,7 +57,7 @@ const skills = [{
     },
     
     {
-        name: "Bash",
+        name: "Flutter",
     },
 
     {
