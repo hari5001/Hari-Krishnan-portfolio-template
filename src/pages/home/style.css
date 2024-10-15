@@ -37,6 +37,11 @@ section {
     margin-top: -60px;
 }
 
+.h_bg-image {
+    border-radius: 12px;
+    border: 3px solid lawngreen;
+}
+
 @media (max-width:991.98px) {
     .intro_sec {
         display: block;
