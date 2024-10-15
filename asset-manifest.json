@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/hari5001/Hari-Krishnan-portfolio-template/static/css/main.6b9b6197.css",
+    "main.js": "/hari5001/Hari-Krishnan-portfolio-template/static/js/main.48d47cd4.js",
+    "static/media/hari.png": "/hari5001/Hari-Krishnan-portfolio-template/static/media/hari.6d5c0db6f305c7363b7f.png",
+    "index.html": "/hari5001/Hari-Krishnan-portfolio-template/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6b9b6197.css",
+    "static/js/main.48d47cd4.js"
+  ]
+}
